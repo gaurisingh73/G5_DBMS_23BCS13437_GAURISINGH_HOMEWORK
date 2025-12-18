@@ -1,5 +1,3 @@
---G2_23BCS13761_Tanay Manish Nesari_session1--
-
 CREATE TABLE departments (
     department_id SERIAL PRIMARY KEY,
     department_name TEXT NOT NULL
