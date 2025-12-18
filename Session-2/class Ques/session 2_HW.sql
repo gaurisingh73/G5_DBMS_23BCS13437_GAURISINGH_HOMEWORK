@@ -1,5 +1,3 @@
--- G5_23BCS13761_Tanay Manish Nesari_session 2 --
-
 CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
 BEGIN
 SET N = N-1;
